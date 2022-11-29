@@ -1,0 +1,8 @@
+C:\Users\Марина\Documents\C#HOME\HOME3\bin\Debug\HOME3.exe.config
+C:\Users\Марина\Documents\C#HOME\HOME3\bin\Debug\HOME3.exe
+C:\Users\Марина\Documents\C#HOME\HOME3\bin\Debug\HOME3.pdb
+C:\Users\Марина\Documents\C#HOME\HOME3\obj\Debug\HOME3.csproj.AssemblyReference.cache
+C:\Users\Марина\Documents\C#HOME\HOME3\obj\Debug\HOME3.csproj.SuggestedBindingRedirects.cache
+C:\Users\Марина\Documents\C#HOME\HOME3\obj\Debug\HOME3.csproj.CoreCompileInputs.cache
+C:\Users\Марина\Documents\C#HOME\HOME3\obj\Debug\HOME3.exe
+C:\Users\Марина\Documents\C#HOME\HOME3\obj\Debug\HOME3.pdb

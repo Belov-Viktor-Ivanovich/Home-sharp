@@ -1,0 +1,8 @@
+C:\Users\Марина\Documents\C#HOME\Home2\obj\Debug\Home2.csproj.AssemblyReference.cache
+C:\Users\Марина\Documents\C#HOME\Home2\obj\Debug\Home2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Марина\Documents\C#HOME\Home2\obj\Debug\Home2.csproj.CoreCompileInputs.cache
+C:\Users\Марина\Documents\C#HOME\Home2\bin\Debug\Home2.exe.config
+C:\Users\Марина\Documents\C#HOME\Home2\bin\Debug\Home2.exe
+C:\Users\Марина\Documents\C#HOME\Home2\bin\Debug\Home2.pdb
+C:\Users\Марина\Documents\C#HOME\Home2\obj\Debug\Home2.exe
+C:\Users\Марина\Documents\C#HOME\Home2\obj\Debug\Home2.pdb

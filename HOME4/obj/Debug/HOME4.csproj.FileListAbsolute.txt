@@ -1,0 +1,8 @@
+C:\Users\Марина\Documents\C#HOME\HOME4\bin\Debug\HOME4.exe.config
+C:\Users\Марина\Documents\C#HOME\HOME4\bin\Debug\HOME4.exe
+C:\Users\Марина\Documents\C#HOME\HOME4\bin\Debug\HOME4.pdb
+C:\Users\Марина\Documents\C#HOME\HOME4\obj\Debug\HOME4.csproj.AssemblyReference.cache
+C:\Users\Марина\Documents\C#HOME\HOME4\obj\Debug\HOME4.csproj.SuggestedBindingRedirects.cache
+C:\Users\Марина\Documents\C#HOME\HOME4\obj\Debug\HOME4.csproj.CoreCompileInputs.cache
+C:\Users\Марина\Documents\C#HOME\HOME4\obj\Debug\HOME4.exe
+C:\Users\Марина\Documents\C#HOME\HOME4\obj\Debug\HOME4.pdb
